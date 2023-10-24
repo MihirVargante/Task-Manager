@@ -1,0 +1,5 @@
+.break-word{
+    width: 89%;
+    overflow: hidden;
+    word-wrap: break-word;
+}
